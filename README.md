@@ -1,7 +1,7 @@
 ![image](https://github.com/lubawsk1/android-app/assets/119734123/a9d3c09e-6cd6-453a-98ef-c328328ed87a)
 
-**Elementy aplikacji:
-**
+Elementy aplikacji:
+
 ‒ Tytuł o treści: „Domek w górach”.
 
 ‒ Obraz o nazwie obraz.jpg wypakowany z archiwum.
@@ -16,8 +16,8 @@
 
 ‒ Napis o treści „Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych”.
 
-**Działanie aplikacji:
-**
+Działanie aplikacji:
+
 ‒ Aplikacja implementuje licznik polubień, który w stanie początkowym aplikacji jest równy 0, następnie jego stan jest:
 
 ‒ inkrementowany po wciśnięciu przycisku „POLUB”,
@@ -26,7 +26,7 @@
 
 ‒ Stan licznika jest wyświetlany pod przyciskami, w formie napisu „<x> polubień”, gdzie <x> oznacza aktualną wartość licznika.
 
-**Założenia aplikacji:**
+Założenia aplikacji:
 
 ‒ Interfejs użytkownika zapisany za pomocą języka znaczników wspieranego w danym środowisku (np. XAML, XML).
 
